@@ -1,0 +1,7 @@
+{"level":"info","message":"validación correcta","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"ERROR","service":"user-service"}
+{"level":"info","message":"Fin de ejecución","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"ERROR","service":"user-service"}
+{"level":"info","message":"Fin de ejecución","service":"user-service"}
